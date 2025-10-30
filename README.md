@@ -45,7 +45,7 @@ A customizable keyboard overlay system made in Unity for visualizing key presses
 ---
 
 ## 📷 Screenshots
-![Overlay Placeholder](images/screenshot1.png)
+![Overlay Placeholder](Images/Screenshot1.png)
 
 ---
 
