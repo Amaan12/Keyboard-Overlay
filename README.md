@@ -51,3 +51,8 @@ A customizable keyboard overlay system made in Unity for visualizing key presses
 
 ## 🧑‍💻 Author
 **Hunter**
+
+## ⚖️ License & Copyright
+© 2025 Hunter. All rights reserved.  
+This project is provided for personal and educational use.  
+Redistribution, modification, or commercial use without explicit permission is prohibited.  
