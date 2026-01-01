@@ -10,7 +10,7 @@ GameObject:
   m_Component:
   - component: {fileID: 3837333704159131354}
   m_Layer: 5
-  m_Name: KeyboardOverlay
+  m_Name: WASD Keys
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
