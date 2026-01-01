@@ -93,6 +93,7 @@ MonoBehaviour:
   pressedColor: {r: 0, g: 1, b: 0, a: 0.19607843}
   idleColor: {r: 0.5, g: 0.5, b: 0.5, a: 0.19607843}
   colorLerpSpeed: 70
+  isTransparentyOverlay: 1
 --- !u!1 &7412818462535665464
 GameObject:
   m_ObjectHideFlags: 0
