@@ -13,7 +13,6 @@ public class OverlayEditModeToggle : MonoBehaviour
     public KeyCode toggleKey = KeyCode.BackQuote; // the ` key
 
     public static bool editMode = false;
-    private bool prevTogglePressed = false;
 
     void Start()
     {
